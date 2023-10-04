@@ -1,0 +1,7 @@
+grapes
+fish
+elephant
+dog
+cat
+ball
+apple
